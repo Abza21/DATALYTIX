@@ -5,7 +5,7 @@ Datalytix is a team of Software Engineers, developing a system called HAIBO
 The APP Name = Haibo App
 
 
-Team Names = VUsumuzi Tswai
+Team Names = Vusumuzi Tswai
            = Thabo Mercury Nkosi
            = Goitsemodimo Abel Senosi
            = Mmarakubu Mothata
